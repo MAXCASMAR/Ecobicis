@@ -3,6 +3,7 @@ Objetivo: Trabajar con datos de movilidad autónoma, explorar las diferencias an
 
 
 ## Datasets y artículos
+**TODOS DEBEN DE LEER ESTOS**
 **Artículos:**
 
 - “Ranking Cyclability in Europe with OpenStreetMap”
@@ -25,5 +26,48 @@ https://datos.cdmx.gob.mx/dataset/alcaldias/resource/e4a9b05f-c480-45fb-a62c-6d4
 https://www.openstreetmap.org/export#map=13/19.4124/-99.1571&layers=Y 
 - Datos de eobici
 https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data
+
+## Tasks
+
+1. Encuesta de Google Forms
+*Objetivos*:
+- Conocer la población de estudiantes que usan como transporte al ITAM una bicicleta.
+  - Bajo qué escenarios la gente prefiere utilizar bicicletas.
+  - Conocer las rutas que utilizan. 
+  - Población foránea vs. población local.
+  - Género.
+  - Gasto en gasolina, y estacionamientos en promedio semanal
+  - Cuantos saben andar en bici y si andan en la ciudad
+
+-Razones por las que no utilizan bicicletas.
+  - Clima (Contingencia).
+  - Por seguridad.
+  - Falta de conocimiento de la infraestructura.
+  - Falta de infraestructura.
+
+- Disposición a usar más la bici
+  - En caso de hacer rodadas con otras personas del ITAM hacia la H.
+  - Qué medidas de seguridad incentivarían su uso
+  - Mayor conocimiento de formas de utilizar las bicis
+
+
+Manual de uso de bicicletas para estudiantes del ITAM
+
+Rutas definidas para estudiantes y para zonas más populares
+De haber brigadas, exponer horarios, ubicaciones, etc. 
+Medidas de seguridad que se podrían implementar
+Básicos de “mecánica” de las bicicletas en caso de tener que arreglar un inconveniente
+Números de asistencia vial
+¿Qué son las ecobicis? Forma de registrarse Podríamos explorar facilitar el proceso con el itam
+
+
+Análisis de infraestructura de la CDMX y luego comparar entre ciudades
+
+Como es la infraestructura 
+Identificar estrategia geográfica
+Gasto público destinado a: infraestructura, mantenimiento, análisis.
+
+
+
 
 
