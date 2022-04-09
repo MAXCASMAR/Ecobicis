@@ -66,6 +66,33 @@ https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data
 - Identificar estrategia geográfica
 - Gasto público destinado a: infraestructura, mantenimiento, análisis.
 
+## Otros links importantes
+
+**Links**
+https://towardsdatascience.com/ecoviz-39a8e50c6c1
+
+https://medium.com/@jeroaranda/mo-r-vilidad-3f25206cdb13
+
+http://ciclociudades.mx/
+
+Strava y wikiloc te permiten visualizar tus recorridos personales: https://www.strava.com/activities/3599258536
+
+**Code or papers**
+Google Maps es la fuente de la información espacial de este artículo, esta interfaz te permite obtener las coordenadas de cualquier dirección, obtener rutas operativas entre otras posibilidades. Notebook en Python con conexión a API, análisis y gráficos.
+
+https://colab.research.google.com/drive/1FmQHSXKHKgGrph_evAFAxU8TMMl_pCTW?usp=sharing
+
+https://github.com/ecastillomon/ecoVIZ
+
+
+https://urbantransitions.global/wp-content/uploads/2021/02/Sustainable-Mobility-for-Sustainable-Cities_Lessons-from-cycling-schemes-in-Mexico-City-and-Guadalajara-Mexico.pdf
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213106
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8719369/
+
+
 
 
 
