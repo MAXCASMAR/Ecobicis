@@ -31,6 +31,9 @@ https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data
 1. Replicar el análisis del primer link para los estados de México y para las **alcaldías de la Ciudad de México**
 - Inicialmente, hacer los análisis en pandas y luego al final en Spark
 - Google Colab con el entregable de la tabla del ranking
+Subtasks:
+  - Descargar la data
+  - Obtener polygons
 2. Mapas de rutas, infraestructure y otros insights
 3. Leyes y políticas públicas en relación con movilidad en bici
 
