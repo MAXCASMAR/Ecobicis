@@ -29,7 +29,7 @@ https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data
 
 ## Tasks 
 1. Replicar el análisis del primer link para los estados de México y para las **alcaldías de la Ciudad de México**
-- Inicialmente, hacer los análisis en pandas y luego al final en Spark
+- Inicialmente, hacer los análisis en pandas y luego al final en Spark o Apache Hadoop
 - Google Colab con el entregable de la tabla del ranking
 Subtasks:
   - Descargar la data
