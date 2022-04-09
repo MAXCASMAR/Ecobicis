@@ -1,4 +1,4 @@
-# Ecobicis
+# Ecobicis.
 Objetivo: Trabajar con datos de movilidad autónoma, explorar las diferencias antes, durante y después del covid sobre el uso de estaciones de ecobici, propuestas, presupuesto, impacto… Distancias, trayectos, eficiencia.
 
 
