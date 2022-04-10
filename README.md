@@ -63,7 +63,7 @@ Subtasks:
   - Mayor conocimiento de formas de utilizar las bicis
 
 
-2. Manual de uso de bicicletas para estudiantes del ITAM
+  2. Manual de uso de bicicletas para estudiantes del ITAM
 
 *Objetivos*
 Dar a conocer la infraestructura existente de bicicletas en la ciudad a los alumnos del ITAM y que al final con actualizaciones compartamos los resultados de nuestro análisis. 
@@ -86,7 +86,8 @@ Dar a conocer la infraestructura existente de bicicletas en la ciudad a los alum
     - Medidas a largo plazo que ayudarían a los estudiantes.
 
 
-3. Análisis de infraestructura de la CDMX y luego comparar entre ciudades
+  3. Análisis de infraestructura de la CDMX y luego comparar entre ciudades
+
 - Como es la infraestructura 
 - Identificar estrategia geográfica
 - Gasto público destinado a: infraestructura, mantenimiento, análisis.
