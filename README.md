@@ -62,8 +62,7 @@ Subtasks:
   - Qué medidas de seguridad incentivarían su uso
   - Mayor conocimiento de formas de utilizar las bicis
 
-
-  2. Manual de uso de bicicletas para estudiantes del ITAM
+2. Manual de uso de bicicletas para estudiantes del ITAM
 
   *Objetivos*
     Dar a conocer la infraestructura existente de bicicletas en la ciudad a los alumnos del ITAM y que al final con actualizaciones compartamos los resultados de       nuestro análisis. 
