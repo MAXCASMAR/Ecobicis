@@ -69,6 +69,7 @@ Subtasks:
 Dar a conocer la infraestructura existente de bicicletas en la ciudad a los alumnos del ITAM y que al final con actualizaciones compartamos los resultados de nuestro análisis. 
 
 - Etapas:
+
   a. Primera versión que vamos a compartir al mandar la encuesta.
     - Dar a conocer los objetivos de nuestra investigación.
     - Rutas definidas para estudiantes y para zonas más populares
