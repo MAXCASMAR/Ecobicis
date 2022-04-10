@@ -87,7 +87,7 @@ Subtasks:
 
 #### 3. Análisis de infraestructura de la CDMX y luego comparar entre ciudades
 
-  - Como es la infraestructura 
+  - Cómo es la infraestructura 
   - Identificar estrategia geográfica
   - Gasto público destinado a: infraestructura, mantenimiento, análisis.
   - Ventajas y desventajas que han tenido los programas ciclistas en otras ciudades.
