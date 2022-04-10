@@ -64,18 +64,36 @@ Subtasks:
 
 
 2. Manual de uso de bicicletas para estudiantes del ITAM
-- Rutas definidas para estudiantes y para zonas más populares
-- De haber brigadas, exponer horarios, ubicaciones, etc. 
-- Medidas de seguridad que se podrían implementar
-- Básicos de “mecánica” de las bicicletas en caso de tener que arreglar un inconveniente
-- Números de asistencia vial
-- ¿Qué son las ecobicis? Forma de registrarse Podríamos explorar facilitar el proceso con el itam
+
+*Objetivos*
+Dar a conocer la infraestructura existente de bicicletas en la ciudad a los alumnos del ITAM y que al final con actualizaciones compartamos los resultados de nuestro análisis. 
+
+- Etapas:
+  a. Primera versión que vamos a compartir al mandar la encuesta.
+    - Dar a conocer los objetivos de nuestra investigación.
+    - Rutas definidas para estudiantes y para zonas más populares
+    - De haber brigadas, exponer horarios, ubicaciones, etc. 
+    - Medidas de seguridad que se podrían implementar
+    - Básicos de “mecánica” de las bicicletas en caso de tener que arreglar un inconveniente
+    - Números de asistencia vial
+    - ¿Qué son las ecobicis? Forma de registrarse Podríamos explorar facilitar el proceso con el itam
+
+  b. Segunda versión con los resultados de la encuesta y de la comparación entre la CDMX y otras ciudades.
+    - Compartir las estadísticas que obtuvimos de la encuesta.
+    - Después de las respuestas, ¿cuáles son las medidas que podríamos buscar implementar?
+    - Razones por las cuales (según el análisis) el ITAM debería de preocuparse más por la cultura ciclista.
+    - Medidas a largo plazo que ayudarían a los estudiantes.
 
 
 3. Análisis de infraestructura de la CDMX y luego comparar entre ciudades
 - Como es la infraestructura 
 - Identificar estrategia geográfica
 - Gasto público destinado a: infraestructura, mantenimiento, análisis.
+- Ventajas y desventajas que han tenido los programas ciclistas en otras ciudades.
+- Comparación de los estudiantes en otras ciudades y la CDMX.
+- El principal objetivo de este análisis es responder ¿por qué el ITAM se debe de preocupar por promover una cultura ciclista?
+- Como segundo objetivo, ¿cómo se podría promover una cultura ciclista en la CDMX? ¿Qué ventajas traería a la ciudad?
+
 
 ## Otros links importantes
 
