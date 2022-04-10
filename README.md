@@ -40,7 +40,7 @@ Subtasks:
 
 ## Tasks generales
 
-1. Encuesta de Google Forms
+#### 1. Encuesta de Google Forms
 
 *Objetivos*:
 - Conocer la población de estudiantes que usan como transporte al ITAM una bicicleta.
@@ -62,7 +62,7 @@ Subtasks:
   - Qué medidas de seguridad incentivarían su uso
   - Mayor conocimiento de formas de utilizar las bicis
 
-2. Manual de uso de bicicletas para estudiantes del ITAM
+#### 2. Manual de uso de bicicletas para estudiantes del ITAM
 
   *Objetivos*
     Dar a conocer la infraestructura existente de bicicletas en la ciudad a los alumnos del ITAM y que al final con actualizaciones compartamos los resultados de       nuestro análisis. 
@@ -85,7 +85,7 @@ Subtasks:
     - Medidas a largo plazo que ayudarían a los estudiantes.
 
 
-3. Análisis de infraestructura de la CDMX y luego comparar entre ciudades
+#### 3. Análisis de infraestructura de la CDMX y luego comparar entre ciudades
 
   - Como es la infraestructura 
   - Identificar estrategia geográfica
