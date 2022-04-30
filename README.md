@@ -69,7 +69,8 @@ Subtasks:
 
   - Etapas:
 
-  a. Primera versión que vamos a compartir al mandar la encuesta.
+  a. Primera versión que vamos a compartir al mandar la encuesta
+  
     - Dar a conocer los objetivos de nuestra investigación.
     - Rutas definidas para estudiantes y para zonas más populares
     - De haber brigadas, exponer horarios, ubicaciones, etc. 
@@ -79,6 +80,7 @@ Subtasks:
     - ¿Qué son las ecobicis? Forma de registrarse Podríamos explorar facilitar el proceso con el itam
 
   b. Segunda versión con los resultados de la encuesta y de la comparación entre la CDMX y otras ciudades.
+  
     - Compartir las estadísticas que obtuvimos de la encuesta.
     - Después de las respuestas, ¿cuáles son las medidas que podríamos buscar implementar?
     - Razones por las cuales (según el análisis) el ITAM debería de preocuparse más por la cultura ciclista.
